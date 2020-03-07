@@ -1,1 +1,1 @@
-![avatar]('原理.jpg')
+![avatar](原理.jpg)
